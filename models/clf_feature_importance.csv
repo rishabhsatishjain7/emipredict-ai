@@ -1,0 +1,26 @@
+,importance
+affordability_ratio,0.25384575
+credit_score,0.20177175
+credit_risk_score,0.20048943
+disposable_income,0.07649781
+emi_to_income,0.04802327
+risk_score,0.031991698
+disposable_to_income,0.031549994
+est_requested_emi,0.013640576
+employment_type_Government,0.012649896
+employment_type_Self-employed,0.011825144
+employment_type_Private,0.0056920145
+expense_to_income,0.004493939
+dti_after_loan,0.0039648674
+savings_buffer_months,0.0033497862
+employment_stability,0.0028330775
+loan_to_annual_income,0.0025565145
+company_type_Startup,0.00238855
+emi_scenario_E-commerce Shopping EMI,0.00234442
+years_of_employment,0.0023268906
+marital_status_Single,0.0022944063
+school_fees,0.0022534172
+income_x_credit,0.002231818
+requested_amount,0.0022274686
+liquid_assets_to_loan,0.0022077442
+total_expenses,0.002177747

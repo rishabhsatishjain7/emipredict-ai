@@ -1,0 +1,50 @@
+{
+  "before": {
+    "rows": 400400,
+    "columns": 27,
+    "duplicate_rows": 400,
+    "missing_by_column": {
+      "education": 4740,
+      "monthly_salary": 2376,
+      "years_of_employment": 2823,
+      "credit_score": 3180,
+      "bank_balance": 3990
+    },
+    "missing_pct_total": 0.1583,
+    "out_of_range": {
+      "age": 186,
+      "credit_score": 185
+    },
+    "categorical_inconsistencies": {
+      "gender": 1562,
+      "employment_type": 1210
+    }
+  },
+  "after": {
+    "rows": 400000,
+    "columns": 27,
+    "duplicate_rows": 0,
+    "missing_by_column": {
+      "age": 186,
+      "education": 4734,
+      "monthly_salary": 2371,
+      "years_of_employment": 2819,
+      "credit_score": 3361,
+      "bank_balance": 3987
+    },
+    "missing_pct_total": 0.1616,
+    "out_of_range": {},
+    "categorical_inconsistencies": {}
+  },
+  "duplicates_removed": 400,
+  "class_distribution": {
+    "Not_Eligible": 0.4095,
+    "High_Risk": 0.3673,
+    "Eligible": 0.2231
+  },
+  "splits": {
+    "train": 279999,
+    "val": 60001,
+    "test": 60000
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "clf": {
+    "best_algorithm": "XGBoost",
+    "registry_version": 4,
+    "val_accuracy": 0.9829002849952501,
+    "val_precision_weighted": 0.9829042392731574,
+    "val_recall_weighted": 0.9829002849952501,
+    "val_f1_weighted": 0.9828988623475331,
+    "val_f1_macro": 0.982351456352922,
+    "val_roc_auc_ovr": 0.9922352714578593,
+    "test_accuracy": 0.9828833333333333,
+    "test_precision_weighted": 0.9828876421542052,
+    "test_recall_weighted": 0.9828833333333333,
+    "test_f1_weighted": 0.9828801527785618,
+    "test_f1_macro": 0.982361962000511,
+    "test_roc_auc_ovr": 0.9917815922892338
+  },
+  "reg": {
+    "best_algorithm": "XGBoost",
+    "registry_version": 4,
+    "val_rmse": 295.44967639931355,
+    "val_mae": 120.02125027925916,
+    "val_r2": 0.9977186590341344,
+    "val_mape": 2.1630841840310984,
+    "test_rmse": 318.5347713324551,
+    "test_mae": 120.61977665297191,
+    "test_r2": 0.9973791329484937,
+    "test_mape": 2.1724958132836516
+  },
+  "class_labels": [
+    "Eligible",
+    "High_Risk",
+    "Not_Eligible"
+  ],
+  "targets": {
+    "accuracy": 0.9,
+    "rmse": 2000
+  },
+  "trained_on_rows": 279999
+}

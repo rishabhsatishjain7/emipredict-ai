@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.log
+.venv/
+.pytest_cache/
+# large / regenerable artefacts
+data/emi_dataset.csv
+data/processed/clean.parquet
+data/processed/train.parquet
+data/processed/val.parquet
+data/processed/test.parquet
+data/applicants.db
+mlruns/
+mlflow.db
+reports/training_log.txt
+nohup.out

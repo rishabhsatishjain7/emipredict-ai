@@ -1,0 +1,26 @@
+,importance
+disposable_income,0.7047028
+expense_to_income,0.12736668
+income_x_credit,0.053263668
+debt_to_income,0.027825044
+employment_type_Government,0.013533122
+credit_score,0.01063088
+disposable_to_income,0.010193103
+employment_type_Self-employed,0.009113406
+monthly_salary,0.007978582
+credit_risk_score,0.0055062007
+employment_type_Private,0.0038979303
+risk_score,0.0037476965
+savings_buffer_months,0.0027224324
+existing_loans_Yes,0.0015207301
+existing_loans_No,0.0013930601
+travel_expenses,0.0013792336
+other_monthly_expenses,0.0011664464
+total_expenses,0.001050979
+employment_stability,0.0010138524
+emergency_fund,0.00081819337
+bank_balance,0.0007832686
+school_fees,0.0006111332
+affordability_ratio,0.000536576
+emi_scenario_Personal Loan EMI,0.0004861955
+college_fees,0.00048072616

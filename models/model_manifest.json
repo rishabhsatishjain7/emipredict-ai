@@ -1,0 +1,28 @@
+{
+  "clf": {
+    "algorithm": "XGBoost",
+    "format": "xgboost_native",
+    "files": {
+      "prep": "best_classifier_prep.joblib",
+      "model": "best_classifier.ubj"
+    },
+    "versions": {
+      "python": "3.12.10",
+      "scikit-learn": "1.9.1",
+      "xgboost": "3.4.1"
+    }
+  },
+  "reg": {
+    "algorithm": "XGBoost",
+    "format": "xgboost_native",
+    "files": {
+      "prep": "best_regressor_prep.joblib",
+      "model": "best_regressor.ubj"
+    },
+    "versions": {
+      "python": "3.12.10",
+      "scikit-learn": "1.9.1",
+      "xgboost": "3.4.1"
+    }
+  }
+}
